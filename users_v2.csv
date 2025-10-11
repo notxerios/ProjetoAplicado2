@@ -1,0 +1,21 @@
+user_id,nome,idade,curso,nivel_foco,perfil,basic_range,weekly_range,monthly_range,distractions_base,swap_days
+1,Aluno01,26,Psicologia,Baixo,noctívago,"(3, 6)","(2, 4)","(2, 3)",1,46
+2,Aluno02,20,Ciência de Dados,Alto,matinal,"(2, 6)","(2, 2)","(3, 3)",4,20
+3,Aluno03,21,Psicologia,Baixo,intensivo,"(2, 3)","(4, 4)","(1, 3)",0,55
+4,Aluno04,30,Engenharia de Software,Médio,matinal,"(2, 5)","(2, 3)","(1, 1)",0,49
+5,Aluno05,22,Administração,Alto,matinal,"(6, 6)","(3, 4)","(1, 2)",1,52
+6,Aluno06,20,Engenharia,Baixo,misto,"(3, 5)","(2, 3)","(2, 3)",2,51
+7,Aluno07,29,Ciência de Dados,Baixo,noctívago,"(4, 5)","(3, 4)","(1, 3)",7,24
+8,Aluno08,24,Engenharia,Baixo,matinal,"(2, 4)","(4, 4)","(2, 3)",3,58
+9,Aluno09,18,Administração,Alto,matinal,"(5, 6)","(3, 4)","(1, 2)",0,49
+10,Aluno10,27,Engenharia,Médio,noctívago,"(4, 6)","(2, 4)","(1, 3)",5,32
+11,Aluno11,29,Engenharia de Software,Baixo,intensivo,"(2, 6)","(3, 4)","(2, 2)",2,53
+12,Aluno12,29,Psicologia,Alto,intensivo,"(2, 6)","(2, 3)","(1, 2)",2,35
+13,Aluno13,32,Ciência de Dados,Baixo,intensivo,"(4, 5)","(2, 2)","(2, 2)",2,60
+14,Aluno14,29,Engenharia de Software,Baixo,pomodoro,"(3, 4)","(2, 4)","(1, 3)",1,41
+15,Aluno15,26,Ciência de Dados,Baixo,intensivo,"(2, 3)","(2, 3)","(2, 3)",3,30
+16,Aluno16,33,Engenharia de Software,Baixo,misto,"(3, 6)","(2, 3)","(3, 3)",0,27
+17,Aluno17,34,Administração,Baixo,pomodoro,"(2, 4)","(2, 2)","(1, 1)",3,41
+18,Aluno18,25,Administração,Alto,pomodoro,"(3, 5)","(2, 4)","(1, 1)",1,51
+19,Aluno19,27,Engenharia de Software,Baixo,noctívago,"(4, 6)","(2, 4)","(3, 3)",0,39
+20,Aluno20,24,Psicologia,Médio,intensivo,"(2, 5)","(3, 4)","(1, 2)",0,24
