@@ -1,0 +1,21 @@
+user_id,hora_recomendada,janela_recomendada,metodo_recomendado,bloco_minutos,nome,perfil_estudo,curso,nivel_foco
+1,20,20:00–22:00,Moderado,50,Aluno01,noctívago,Psicologia,Baixo
+2,10,10:00–12:00,Pomodoro,30,Aluno02,matinal,Ciência de Dados,Alto
+3,18,18:00–20:00,Intensivo,90,Aluno03,intensivo,Psicologia,Baixo
+4,10,10:00–12:00,Moderado,50,Aluno04,matinal,Engenharia de Software,Médio
+5,10,10:00–12:00,Moderado,50,Aluno05,matinal,Administração,Alto
+6,14,14:00–16:00,Pomodoro,30,Aluno06,misto,Engenharia,Baixo
+7,21,21:00–23:00,Pomodoro,30,Aluno07,noctívago,Ciência de Dados,Baixo
+8,7,07:00–09:00,Pomodoro,30,Aluno08,matinal,Engenharia,Baixo
+9,11,11:00–13:00,Moderado,50,Aluno09,matinal,Administração,Alto
+10,22,22:00–00:00,Pomodoro,30,Aluno10,noctívago,Engenharia,Médio
+11,16,16:00–18:00,Pomodoro,30,Aluno11,intensivo,Engenharia de Software,Baixo
+12,10,10:00–12:00,Pomodoro,30,Aluno12,intensivo,Psicologia,Alto
+13,9,09:00–11:00,Pomodoro,30,Aluno13,intensivo,Ciência de Dados,Baixo
+14,18,18:00–20:00,Pomodoro,30,Aluno14,pomodoro,Engenharia de Software,Baixo
+15,14,14:00–16:00,Pomodoro,30,Aluno15,intensivo,Ciência de Dados,Baixo
+16,18,18:00–20:00,Moderado,50,Aluno16,misto,Engenharia de Software,Baixo
+17,14,14:00–16:00,Pomodoro,30,Aluno17,pomodoro,Administração,Baixo
+18,12,12:00–14:00,Pomodoro,30,Aluno18,pomodoro,Administração,Alto
+19,23,23:00–01:00,Intensivo,90,Aluno19,noctívago,Engenharia de Software,Baixo
+20,11,11:00–13:00,Intensivo,90,Aluno20,intensivo,Psicologia,Médio
