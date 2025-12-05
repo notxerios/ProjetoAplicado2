@@ -1,0 +1,21 @@
+user_id,horas_estudadas,tarefas_concluidas,eficiencia_tarefa_por_hora,nome,perfil_estudo,curso,idade
+1,2102.75,1065,0.5064796100344786,Aluno01,noctívago,Psicologia,26
+2,1328.75,924,0.6953904045155221,Aluno02,matinal,Ciência de Dados,20
+3,2116.0,651,0.30765595463137996,Aluno03,intensivo,Psicologia,21
+4,1190.0,842,0.7075630252100841,Aluno04,matinal,Engenharia de Software,30
+5,1907.75,1420,0.7443323286594156,Aluno05,matinal,Administração,22
+6,1813.0,943,0.5201323772752344,Aluno06,misto,Engenharia,20
+7,2082.75,1090,0.5233465370303685,Aluno07,noctívago,Ciência de Dados,29
+8,1036.75,771,0.7436701229804679,Aluno08,matinal,Engenharia,24
+9,1782.5,1270,0.7124824684431977,Aluno09,matinal,Administração,18
+10,2298.5,1184,0.5151185555797259,Aluno10,noctívago,Engenharia,27
+11,3135.0,929,0.2963317384370016,Aluno11,intensivo,Engenharia de Software,29
+12,3194.5,958,0.2998904366880576,Aluno12,intensivo,Psicologia,29
+13,3545.5,1090,0.3074319560005641,Aluno13,intensivo,Ciência de Dados,32
+14,645.3333333333334,839,1.300103305785124,Aluno14,pomodoro,Engenharia de Software,29
+15,2073.0,601,0.28991799324650264,Aluno15,intensivo,Ciência de Dados,26
+16,1953.0,1065,0.5453149001536098,Aluno16,misto,Engenharia de Software,33
+17,533.4166666666666,726,1.3610373379159508,Aluno17,pomodoro,Administração,34
+18,690.6666666666666,936,1.3552123552123554,Aluno18,pomodoro,Administração,25
+19,2338.75,1167,0.4989845002672368,Aluno19,noctívago,Engenharia de Software,27
+20,2872.5,856,0.2979982593559617,Aluno20,intensivo,Psicologia,24
